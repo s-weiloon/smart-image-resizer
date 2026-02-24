@@ -10,7 +10,6 @@ A modern, light-weight, open-source desktop application for batch image resizing
 
 ## ✨ Features
 * **Batch Processing**: Resize entire directories of images instantly.
-* **Modern UI/UX**: Sleek dark mode design with Windows 11-style native glassmorphism (Mica) integration.
 * **Smart Aspect Ratio Handling**: Automatically detects landscape vs. portrait images and applies the appropriate dimension ceilings.
 * **Oversize Protection**: Built-in logic to safely downscale excessively large images.
 * **Job History**: Visual representation of processed images with original vs. new thumbnails and success tracking. 
