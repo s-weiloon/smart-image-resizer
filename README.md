@@ -10,7 +10,7 @@ A tool for batch processing and resizing images.
 
 ## What It Does
 
-This tool allows you to select a folder of images and automatically resize them in bulk. It standardizes image dimensions efficiently for internal workflows by automatically detecting each image's orientation — landscape, portrait, or oversize (playmat) — and applying the appropriate target dimensions to each.
+A desktop tool that batch resizes images by auto-detecting orientation — landscape, portrait, or oversize (playmat) — and applying the appropriate target dimensions to each file.
 
 ---
 
@@ -34,10 +34,10 @@ The application scans the selected directory for supported image formats (`PNG`,
 
 ## How To Use
 
-1. **Select Folder** — Click **"Select Image Folder"** to choose the target directory containing your images.
-2. **Configure Dimensions** — Set the maximum output dimensions for **Landscape**, **Portrait**, and **Oversize** limits *(sensible defaults are pre-populated)*.
-3. **Overwrite Setting** — Toggle **"Overwrite original images"** only if you want to permanently replace the source files. Keeping this off is recommended to prevent data loss.
-4. **Execute** — Click **"Start Resizing"**. You can track the progress and see the specific resizing logic applied to each file in the **Job History** panel at the bottom of the window.
+1. **Select Folder** — Click **"Select Image Folder"** to choose the target directory.
+2. **Configure Dimensions** — Set the output dimensions for **Landscape**, **Portrait**, and **Oversize (Playmat)**.
+3. **Overwrite Setting** — Toggle **"Overwrite original images"** only if you want to permanently replace source files. Keeping this off is recommended to prevent data loss.
+4. **Execute** — Click **"Start Resizing"** and monitor progress via the **Job History** panel at the bottom of the window.
 
 ---
 
