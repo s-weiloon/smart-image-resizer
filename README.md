@@ -10,8 +10,7 @@ A tool that resizes an entire folder of images in one go — automatically sorti
 
 ## What It Does
 
-A desktop tool that batch resizes images by auto-detecting orientation — landscape, portrait, or oversize (playmat) — and applying the appropriate target dimensions to each file.
-
+A desktop tool that  resizes an entire folder of images in one go — landscape, portrait, or oversize (playmat) — and applying the right dimensions to each file.
 ---
 
 ## How It Works
