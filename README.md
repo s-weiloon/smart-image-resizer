@@ -1,6 +1,6 @@
 # Batch Image Resizer
 
-A tool for batch processing and resizing images.
+A tool that resizes an entire folder of images in one go — automatically sorting each file into landscape, portrait, or playmat and applying the right dimensions.
 
 <div align="center">
 <img src="icon.ico" alt="Tool Icon" width="100"/>
