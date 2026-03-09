@@ -10,7 +10,8 @@ A tool for batch processing and resizing images.
 
 ## What It Does
 
-This tool allows you to select a folder of images and automatically resize them in bulk. It standardizes image dimensions efficiently for internal workflows by automatically categorizing each image as **Landscape**, **Portrait**, or **Oversize (Playmat)** and applying the appropriate target dimensions to each.
+This tool allows you to select a folder of images and automatically resize them in bulk. It standardizes image dimensions efficiently for internal workflows by automatically detecting each image's orientation — landscape, portrait, or oversize (playmat) — and applying the appropriate target dimensions to each.
+
 ---
 
 ## How It Works
