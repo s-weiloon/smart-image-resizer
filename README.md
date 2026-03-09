@@ -10,7 +10,7 @@ A tool that resizes an entire folder of images in one go — automatically sorti
 
 ## What It Does
 
-A desktop tool that  resizes an entire folder of images in one go — landscape, portrait, or oversize (playmat) — and applying the right dimensions to each file.
+A desktop tool that resizes an entire folder of images in one go — landscape, portrait, or playmat — each scaled to the right dimensions automatically.
 ---
 
 ## How It Works
