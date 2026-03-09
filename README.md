@@ -1,6 +1,6 @@
 # Batch Image Resizer
 
-A straightforward, internal desktop utility for batch processing and resizing images.
+A tool for batch processing and resizing images.
 
 <div align="center">
 <img src="icon.ico" alt="Tool Icon" width="100"/>
@@ -10,8 +10,7 @@ A straightforward, internal desktop utility for batch processing and resizing im
 
 ## What It Does
 
-This tool allows you to select a folder of images and automatically resize them in bulk. It standardizes image dimensions efficiently for internal workflows by automatically detecting image orientation and applying appropriate dimension ceilings or oversize limits.
-
+This tool allows you to select a folder of images and automatically resize them in bulk. It standardizes image dimensions efficiently for internal workflows by automatically categorizing each image as **Landscape**, **Portrait**, or **Oversize (Playmat)** and applying the appropriate target dimensions to each.
 ---
 
 ## How It Works
